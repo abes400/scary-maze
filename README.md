@@ -42,7 +42,7 @@ You can easily replace the audio and image files. They will be embedded into the
 - Replace the files **[endcard.png](./custom_assets/endcard.png)** and **[sound.wav](./custom_assets/sound.wav)** with yours. 
     - Be sure that your files have the exact same names.
     - Be sure that the **endcard.png** is **800x600**.
-    - Be sure that the audio is no longer than **10 seconds.**
+    - Be sure that the **sound.wav** is no longer than **10 seconds.**
 
 - Compile the code normally by running `make (osx)` (see the Compilation Instructions).
 
